@@ -118,7 +118,7 @@ curated by local talent!
     <div class="skill-row1">
       <img class="ab" src="https://i.ibb.co/ZNRxRBG/1650756908789.jpggi" alt="Romil"/>
       <h3>Romil Modi</h3>
-      <p class="dev" >A resolute Undergrad right now studying in MNIT , Jaipur who is keen in knowing and learning about new technologies and software advancements having high enthusiasm and zeal to work in Tech indutry along the lines of fervent approach to multitask and handle pressure..</p>
+      <p class="dev" >A resolute Undergrad right now studying in MNIT , Jaipur who is keen in knowing and learning about new technologies and software advancements having high enthusiasm and zeal to work in Tech industry along the lines of fervent approach to multitask and handle pressure..</p>
     </div>
     <div class="skill-row2">
     <img class="bb" src="https://i.ibb.co/wysV07d/1650755428346.jpg"  alt="Vatsalya"/>
